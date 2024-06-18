@@ -1,0 +1,188 @@
+{
+  "fontSizes":{
+    "2xs": {
+      "$value":"10",
+      "$type":"number"
+    },
+    "xs": {
+      "$value":"12",
+      "$type":"number"
+    },
+    "sm": {
+      "$value":"14",
+      "$type":"number"
+    },
+    "md": {
+      "$value":"16",
+      "$type":"number"
+    },
+    "lg": {
+      "$value":"18",
+      "$type":"number"
+    },
+    "xl": {
+      "$value":"20",
+      "$type":"number"
+    },
+    "2xl": {
+      "$value":"24",
+      "$type":"number"
+    },
+    "3xl": {
+      "$value":"30",
+      "$type":"number"
+    },
+    "4xl": {
+      "$value":"32",
+      "$type":"number"
+    },
+    "5xl": {
+      "$value":"36",
+      "$type":"number"
+    },
+    "6xl": {
+      "$value":"48",
+      "$type":"number"
+    },
+    "7xl": {
+      "$value":"60",
+      "$type":"number"
+    },
+    "8xl": {
+      "$value":"72",
+      "$type":"number"
+    },
+    "9xl": {
+      "$value":"96",
+      "$type":"number"
+    }
+  },
+  "fontWeights":{
+    "hairline": {
+      "$value":"100",
+      "$type":"number"
+    },
+    "thin": {
+      "$value":"200",
+      "$type":"number"
+    },
+    "light": {
+      "$value":"300",
+      "$type":"number"
+    },
+    "normal": {
+      "$value":"400",
+      "$type":"number"
+    },
+    "medium": {
+      "$value":"500",
+      "$type":"number"
+    },
+    "semibold": {
+      "$value":"600",
+      "$type":"number"
+    },
+    "bold": {
+      "$value":"700",
+      "$type":"number"
+    },
+    "extrabold": {
+      "$value":"800",
+      "$type":"number"
+    },
+    "black": {
+      "$value":"900",
+      "$type":"number"
+    }
+  },
+  "lineHeights":{
+    "normal":{
+      "$value":"normal",
+      "$type":"string"
+    },
+    "none":{
+      "$value": "1",
+      "$type":"number"
+    },
+    "shorter":{
+      "$value": "1.25",
+      "$type":"number"
+    },
+    "short":{
+      "$value": "1.375",
+      "$type":"number"
+    },
+    "base":{
+      "$value": "1.5",
+      "$type":"number"
+    },
+    "tall":{
+      "$value": "1.625",
+      "$type":"number"
+    },
+    "taller":{
+      "$value": "2",
+      "$type":"number"
+    },
+    "3":{
+      "$value": "12",
+      "$type":"number"
+    },
+    "4":{
+      "$value": "16",
+      "$type":"number"
+    },
+    "5":{
+      "$value": "20",
+      "$type":"number"
+    },
+    "6":{
+      "$value": "24",
+      "$type":"number"
+    },
+    "7":{
+      "$value": "28",
+      "$type":"number"
+    },
+    "8":{
+      "$value": "32",
+      "$type":"number"
+    },
+    "9":{
+      "$value": "36",
+      "$type":"number"
+    },
+    "10":{
+      "$value": "40",
+      "$type":"number"
+    }
+  },
+  "letterSpacings":{
+    "tighter":{
+      "$value": "-0.9",
+      "$type":"number"
+    },
+    "tight":{
+      "$value": "-0.45",
+      "$type":"number"
+    },
+    "normal":{
+      "$value": "0",
+      "$type":"number"
+    },
+    "wide":{
+      "$value": "0.45",
+      "$type":"number"
+    },
+    "wider":{
+      "$value": "0.9",
+      "$type":"number"
+    },
+    "widest":{
+      "$value": "1.8",
+      "$type":"number"
+    }
+  }
+
+
+}

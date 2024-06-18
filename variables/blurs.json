@@ -1,0 +1,24 @@
+{
+  "blurs": {
+    "sm": {
+      "$value": "4",
+      "$type":"number"
+    },
+    "md": {
+      "$value": "8",
+      "$type":"number"
+    },
+    "lg": {
+      "$value":"12",
+      "$type":"number"
+    },
+    "xl": {
+      "$value":"16",
+      "$type":"number"
+    },
+    "2xl": {
+      "$value":"24",
+      "$type":"number"
+    }
+  }
+}

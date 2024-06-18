@@ -1,0 +1,40 @@
+{
+  "radii": {
+    "none": {
+      "$value":"0",
+      "$type":"number"
+    },
+    "sm": {
+      "$value":"2",
+      "$type":"number"
+    },
+    "base": {
+      "$value":"4",
+      "$type":"number"
+    },
+    "md": {
+      "$value":"6",
+      "$type":"number"
+    },
+    "lg": {
+      "$value":"8",
+      "$type":"number"
+    },
+    "xl": {
+      "$value":"12",
+      "$type":"number"
+    },
+    "2xl": {
+      "$value":"16",
+      "$type":"number"
+    },
+    "3xl": {
+      "$value":"24",
+      "$type":"number"
+    },
+    "full": {
+      "$value":"9999",
+      "$type":"number"
+    }
+  }
+}

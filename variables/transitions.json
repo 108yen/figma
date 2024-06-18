@@ -1,0 +1,66 @@
+{
+  "transitions": {
+    "property/common": {
+      "$value": "background-color, border-color, color, fill, stroke, opacity, box-shadow, transform",
+      "$type": "string"
+    },
+    "property/colors": {
+      "$value": "background-color, border-color, color, fill, stroke",
+      "$type": "string"
+    },
+    "property/dimensions": {
+      "$value": "width, height",
+      "$type": "string"
+    },
+    "property/position": {
+      "$value": "left, right, top, bottom",
+      "$type": "string"
+    },
+    "property/background": {
+      "$value": "background-color, background-image, background-position",
+      "$type": "string"
+    },
+
+    "easing/ease-in": {
+      "$value": "cubic-bezier(0.4, 0, 1, 1)",
+      "$type": "string"
+    },
+    "easing/ease-out": {
+      "$value": "cubic-bezier(0, 0, 0.2, 1)",
+      "$type": "string"
+    },
+    "easing/ease-in-out": {
+      "$value": "cubic-bezier(0.4, 0, 0.2, 1)",
+      "$type": "string"
+    },
+
+    "duration/ultra-fast": {
+      "$value": "50ms",
+      "$type": "string"
+    },
+    "duration/faster": {
+      "$value": "100ms",
+      "$type": "string"
+    },
+    "duration/fast": {
+      "$value": "150ms",
+      "$type": "string"
+    },
+    "duration/normal": {
+      "$value": "200ms",
+      "$type": "string"
+    },
+    "duration/slow": {
+      "$value": "300ms",
+      "$type": "string"
+    },
+    "duration/slower": {
+      "$value": "400ms",
+      "$type": "string"
+    },
+    "duration/ultra-slow": {
+      "$value": "500ms",
+      "$type": "string"
+    }
+  }
+}

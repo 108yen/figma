@@ -1,0 +1,60 @@
+{
+  "zIndices": {
+    "yamcha": {
+      "$value": "1",
+      "$type": "number"
+    },
+    "kurillin": {
+      "$value": "9",
+      "$type": "number"
+    },
+    "nappa": {
+      "$value": "99",
+      "$type": "number"
+    },
+    "guldo": {
+      "$value": "100",
+      "$type": "number"
+    },
+    "jeice": {
+      "$value": "110",
+      "$type": "number"
+    },
+    "burter": {
+      "$value": "120",
+      "$type": "number"
+    },
+    "recoome": {
+      "$value": "130",
+      "$type": "number"
+    },
+    "ginyu": {
+      "$value": "140",
+      "$type": "number"
+    },
+    "zarbon": {
+      "$value": "150",
+      "$type": "number"
+    },
+    "dodoria": {
+      "$value": "160",
+      "$type": "number"
+    },
+    "freeza": {
+      "$value": "9996",
+      "$type": "number"
+    },
+    "vegeta": {
+      "$value": "9997",
+      "$type": "number"
+    },
+    "sonGoku": {
+      "$value": "9998",
+      "$type": "number"
+    },
+    "beerus": {
+      "$value": "9999",
+      "$type": "number"
+    }
+  }
+}
